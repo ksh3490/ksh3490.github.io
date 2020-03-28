@@ -1,5 +1,6 @@
 ---
 title: "Jekyll을 이용한 공부 블로그 시작"
+data: 2020-03-28
 categories: Main
 tag: First
 ---
