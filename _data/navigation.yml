@@ -1,6 +1,10 @@
 # main links
 main:
-  #- title: "About"
-  #  url: /about/
-  #- title: "Today I Learned"
-  #  url: /categories/#TIL
+  - title: "About"
+    url: /about/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "연도별 포스트"
+    url: /posts/
