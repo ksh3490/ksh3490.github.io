@@ -1,6 +1,5 @@
 ---
 title: "Jekyll을 이용한 공부 블로그 시작"
-data:
 categories: Main
 tag: First
 ---
