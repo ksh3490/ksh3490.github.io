@@ -6,5 +6,5 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "연도별 포스트"
+  - title: "Posts by Year"
     url: /posts/
