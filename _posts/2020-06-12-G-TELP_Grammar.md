@@ -40,9 +40,10 @@ tags:
   
 ### 가정법
   - 보기에 would, should, could, might가 있으면 가정법 문제일 수 있다.
+  - If절에서 사용하는 be동사는 'were'를 사용한다.
   
-  - if절 과거형 + 주절 would, should, could, might + 동사원형
-  - if절 과거 완료 + 주절 would, should, could, might + 현재 완료
+  - If절 과거형 + 주절 would, should, could, might + 동사원형 (현재의 사실을 반대로 가정하는 표현)
+  - If절 과거 완료 + 주절 would, should, could, might + 현재 완료 (과거의 사실을 반대로 가정하는 표현)
 
 ### 준동사
   - 준동사 문제일 경우:
