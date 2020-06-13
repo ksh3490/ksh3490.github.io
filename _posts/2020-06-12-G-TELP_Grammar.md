@@ -18,11 +18,13 @@ tags:
       - important, crucial, required, critical, best, expected, 
       - natural, compulsory, mandatory, obligatory
     
+    
     - "요구", "제안", "주장", "명령" 의미를 지닌 동사가 주절에 있을 때
       - ask, require, request, demand, urge
       - suggest, propose, advise, recommend
       - insist, claim
       - order, command
+  
   
   - 빈칸 근처에 since가 있으면 현재완료 시제가 답일 확률이 높다.
   - 빈칸 근처에 now가 있으면 현재진행형이 답일 확률이 높다.
@@ -33,6 +35,7 @@ tags:
     - since + 주어 + 과거시제
     - all day
     - all morning
+  
   
   - 과거 완료 진행형이 정답임을 알려주는 힌트:
     - by the time + 과거동사/시점, for + 기간표현
